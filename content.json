@@ -1,0 +1,63 @@
+{
+  "business_name": "Twins Chiropractic and Physical Medicine",
+  "phone": "(714) 621-0327",
+  "email": null,
+  "address": "600 S Placentia Ave Ste 600, Placentia, CA 92870",
+  "locations": [
+    "Placentia",
+    "Costa Mesa",
+    "Garden Grove",
+    "Irvine",
+    "Riverside",
+    "Corona",
+    "Buena Park"
+  ],
+  "hours": null,
+  "founded": "2011",
+  "doctors": [
+    "Dr. Daniel Clements, DC",
+    "Dr. David Clements, DC"
+  ],
+  "services": [
+    "Chiropractic Care",
+    "Massage Therapy",
+    "Physical Medicine",
+    "Physical Therapy",
+    "Acupuncture",
+    "Personal Injury"
+  ],
+  "special_offer": "$47 New Patient Special",
+  "about_text": "At Twins Chiropractic and Physical Medicine, chiropractors and identical twin brothers, Dr. Daniel Clements and Dr. David Clements provide their practice members with the very best in family wellness. Our practice has been serving the needs of Orange County patients since 2011. We use cutting-edge techniques to provide life-changing results for our patients. Whether you are hurt from chronic pain or an acute injury, our team is here to help you heal and feel your best.",
+  "tagline": "Experience Relief and Wellness at Twins Chiropractic and Physical Medicine",
+  "social_links": {
+    "facebook": "https://www.facebook.com/",
+    "instagram": "https://www.instagram.com/",
+    "twitter": "https://twitter.com/"
+  },
+  "brand_colors": {
+    "primary": "#1a5c8a",
+    "secondary": "#2ecc71",
+    "accent": "#f39c12"
+  },
+  "original_url": "https://www.twinschiropractic.com/",
+  "images_downloaded": [
+    "assets/images/logo.png",
+    "assets/images/hero-new-patient.jpg",
+    "assets/images/hero-locations.jpg",
+    "assets/images/hero-services.jpg",
+    "assets/images/hero-welcome.jpg",
+    "assets/images/twins-doctors.png",
+    "assets/images/banner-team.png",
+    "assets/images/banner-services.png",
+    "assets/images/banner-contact.png"
+  ],
+  "testimonials": [],
+  "key_differentiators": [
+    "Identical twin brother doctors — Dr. Daniel and Dr. David Clements",
+    "7 convenient OC locations",
+    "Serving Orange County since 2011",
+    "Accepts personal injury cases on lien basis",
+    "Drug-free, natural approach to healthcare",
+    "$47 New Patient Special"
+  ]
+}
