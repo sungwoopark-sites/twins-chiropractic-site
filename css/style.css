@@ -190,7 +190,7 @@ address { font-style: normal; }
 .special-badge {
   display: inline-block;
   background: var(--accent);
-  color: var(--white);
+  color: #0a2a0a;
   font-size: 0.85rem;
   font-weight: 700;
   padding: 6px 16px;
@@ -208,7 +208,7 @@ address { font-style: normal; }
 .hero-sub {
   font-size: 1rem;
   font-weight: 600;
-  opacity: 0.9;
+  color: #fff;
   margin-bottom: 12px;
   letter-spacing: 0.03em;
 }
@@ -223,7 +223,7 @@ address { font-style: normal; }
 /* ===================== OFFER BANNER ===================== */
 .offer-banner {
   background: var(--accent);
-  color: var(--white);
+  color: #0a2a0a;
   padding: 20px 24px;
 }
 .offer-inner {
@@ -233,8 +233,8 @@ address { font-style: normal; }
   gap: 24px;
   flex-wrap: wrap;
 }
-.offer-text { font-size: 1.05rem; font-weight: 600; }
-.offer-text strong { font-size: 1.3rem; }
+.offer-text { font-size: 1.05rem; font-weight: 600; color: #0a2a0a; }
+.offer-text strong { font-size: 1.3rem; color: #0a2a0a; }
 
 /* ===================== SERVICES ===================== */
 .services { padding: 96px 0; background: var(--bg-light); }
